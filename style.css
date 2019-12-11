@@ -104,17 +104,17 @@ a:hover {
 }
 
 @media (max-width: 700px) {
-  h1{
+  h1 {
     font-size: 1.5rem;
   }
 
-header{
-  display: flex;
-  flex-direction: column;
+  header {
+    display: flex;
+    flex-direction: column;
+  }
+  .main-page-content {
+    line-height: 2rem;
+    font-size: 1rem;
+    text-align: start;
+  }
 }
-.main-page-content{
-  line-height:2rem;
-  font-size: 1rem;
-  text-align: start;
-}
-
